@@ -7,9 +7,9 @@ keyboard = InlineKeyboardMarkup(
     [
         [InlineKeyboardButton(text="ɢᴇɴᴇʀᴀᴛᴇ sᴇssɪᴏɴ", callback_data="gensession")],
         [
-            InlineKeyboardButton(text="sᴜᴘᴘᴏʀᴛ", url=SUPPORT_CHAT),
+            InlineKeyboardButton(text="𝚄𝚙𝚍𝚊𝚝𝚎𝚜", url=SUPPORT_CHAT),
             InlineKeyboardButton(
-                text="sᴏᴜʀᴄᴇ", url="https://t.me/PrimeBotsUpdates"
+                text="sᴜᴘᴘᴏʀᴛ", url="https://t.me/PrimeBotsSupport"
             ),
         ],
     ]
